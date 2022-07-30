@@ -1,3 +1,4 @@
+# This is pipeline to build and deploy Azure functions.
 trigger:
 - '*'
 
